@@ -39,7 +39,7 @@ O projeto foi estruturado da seguinte maneira:
 1. **Pré-requisitos**: Certifique-se de ter **Java 21**, **Maven**, e um servidor **MySQL** instalados.
 2. **Clone o repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/literalura.git
+    git clone 
     cd literalura
     ```
 3. **Configure o banco de dados**:
